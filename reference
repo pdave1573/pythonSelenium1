@@ -1,0 +1,8 @@
+Python & Selenium
+https://selenium-python.readthedocs.io/navigating.html
+
+https://www.tutorialspoint.com/pytest/pytest_conftest_py.htm
+
+Run and Generate report:
+pytest -v -s --html=Reports\report.html tests/test_create_FB_Account.py
+
